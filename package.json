@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ethanrweber/TestNpmPackage/issues"
   },
-  "homepage": "https://github.com/ethanrweber/TestNpmPackage#readme"
+  "homepage": "https://github.com/ethanrweber/TestNpmPackage#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
